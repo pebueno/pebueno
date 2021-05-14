@@ -9,7 +9,7 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt=ReactJS width="60" height="60"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg alt=CSS width="60" height="60"/> 
   <img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg alt=JavaScript width="60" height="60"/>
-  <img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg alt=typescript width="60" height="60"/> 
+  <img src=https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg alt=typescript width="60" height="60"/> 
   <img src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg alt=Bootstrap width="60" height="60"/> 
   <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg alt=Git width="60" height="60"/> 
   <img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg alt=MongoDB width="60" height="60"/> 
