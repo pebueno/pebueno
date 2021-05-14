@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg alt=HTML width="60" height="60"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg alt=AngularJS width="60" height="60"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt=ReactJS width="60" height="60"/>
   <img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg alt=CSS width="60" height="60"/> 
   <img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg alt=JavaScript width="60" height="60"/>
   <img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg alt=typescript width="60" height="60"/> 
