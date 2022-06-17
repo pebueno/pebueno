@@ -1,4 +1,4 @@
-## Hi there I'm Pedro Ivo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there I'm Pedro Ivo 👋
 ### I'm a passionate Full Stack Engineer based in Brazil
 A young developer who wants to share his knowledge. Always into a personal project and constantly learning more!
 
