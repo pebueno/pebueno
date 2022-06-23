@@ -2,8 +2,7 @@
 ### I'm a passionate Full Stack Engineer based in Brazil
 A young developer who wants to share his knowledge. Always into a personal project and constantly learning more!
 
-- 🏢 I'm currently working at **[RoutEasy](https://routeasy.com.br/).**
-- ⚙️ I use daily: `js`, `node`, `express`, `mongoDB` 
+- ⚙️ I use daily: `js/ts`, `node`, `nest/express`, `mongoDB`, `SQL` 
 - 🌍 I'm mostly active within the **BackEnd Community**
 - 🌱 Learning all about **Python** (and a bit about Data Science)
 - 👨‍💻 Current project [Pronto Cosméticos](https://www.prontocosmeticos.com.br/)
