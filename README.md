@@ -1,17 +1,16 @@
 ## Hi there I'm Pedro Ivo 👋
 ### I'm a passionate Full Stack Engineer based in Brazil
-A young developer who wants to share his knowledge. Always into a personal project and constantly learning more!
+A polite developer who wants to share his knowledge. Always into a personal project and constantly learning more!
 
-- ⚙️ I use daily: `js/ts`, `node`, `nest/express`, `mongoDB`, `SQL` 
-- 🌱 Learning all about **Python** (and a bit about Data Science)
-- 👨‍💻 Current project [Pronto Cosméticos](https://www.prontocosmeticos.com.br/)
+- ⚙️ Daily use: `js/ts`, `node`, `nest/express`, `mongoDB`, `SQL` 
+- 🌱 Currently learning about Clean Architecture, Design Patterns, TDD and practicing Code Challenges.
+- 👨‍💻 Looking to collaborate on a project, any ideas? Reach me!
 
 <img src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="480" height="270"/>
 
 ### 🤝🏻 Connect with Me
 
 [![TWITTER](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pebuenos)
-[![STACKOVERFLOW](https://img.shields.io/badge/StackOverflow-blue?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10693813/pebueno/)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedroivobu)
 [![WEBSITE](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=appveyor)](https://pedroivo.dev)  
 
