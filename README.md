@@ -4,7 +4,7 @@ A polite developer who wants to share his knowledge. Always into a personal proj
 
 - ⚙️ Daily use: `js/ts`, `node`, `nest/express`, `mongoDB`, `SQL` 
 - 🌱 Currently learning about Clean Architecture, Design Patterns, TDD and practicing Code Challenges.
-- 👨‍💻 Looking to collaborate on a project, any ideas? Reach me!
+- 👨‍💻 Looking to collaborate on a project or have any ideas? Reach me!
 
 <img src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="480" height="270"/>
 
