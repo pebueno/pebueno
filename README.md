@@ -15,7 +15,7 @@ A polite developer who wants to share his knowledge. Always into a personal proj
 [![WEBSITE](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=appveyor)](https://pedroivo.dev)  
 
 <p> 
-  <img src=https://github-readme-stats.vercel.app/api?username=pebueno&show_icons=true alt=PeBueno/> 
+  <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=pebueno&show_icons=true alt=PeBueno/> 
 </p>
 
 <p>
