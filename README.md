@@ -1,6 +1,6 @@
 ## Hi there I'm Pedro Ivo 👋
 ### I'm a passionate Full Stack Engineer based in Brazil
-A polite developer who wants to share his knowledge. Always into a personal project and constantly learning more!
+A developer who wants to share his knowledge. Always into a personal project and constantly learning more!
 
 - ⚙️ Daily use: `js/ts`, `node`, `nest/express`, `mongoDB`, `SQL` 
 - 🌱 Currently learning about Clean Architecture, Design Patterns, TDD and practicing Code Challenges.
