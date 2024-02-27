@@ -16,7 +16,7 @@ A developer who wants to share his knowledge. Always into a personal project and
 </p>
 
 <p>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg alt=NestJS width="60" height="60"/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg alt=NestJS width="60" height="60"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt=ReactJS width="60" height="60"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg alt=MaterialUI width="60" height="60"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg alt=TypeScript width="60" height="60"/>
