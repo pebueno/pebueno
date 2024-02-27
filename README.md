@@ -2,17 +2,14 @@
 ### I'm a passionate Full Stack Engineer based in Brazil
 A developer who wants to share his knowledge. Always into a personal project and constantly learning more!
 
-- ⚙️ Daily use: `js/ts`, `node`, `nest/express`, `mongoDB`, `SQL` 
+- ⚙️ Daily use: `js/ts`, `node/python`, `nest/express`, `mongoDB`, `SQL` 
 - 🌱 Currently learning about Clean Architecture, Design Patterns, TDD and practicing Code Challenges.
 - 👨‍💻 Looking to collaborate on a project or have any ideas? Reach me!
-
-<img src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="480" height="270"/>
 
 ### 🤝🏻 Connect with Me
 
 [![TWITTER](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pebuenos)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedroivobu)
-[![WEBSITE](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=appveyor)](https://pedroivo.dev)  
 
 <p> 
   <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=pebueno&show_icons=true alt=PeBueno/> 
